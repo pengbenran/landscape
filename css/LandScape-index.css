@@ -7074,3 +7074,18 @@ div#wide-nav {
 .opacity{
   opacity:0;
 }
+
+/*公司简介界面*/
+#banner-other{
+  width: 300px;
+  position: relative;
+}
+#contact-text ul{
+  padding: 0;
+  list-style: none;
+}
+#contact-text ul li{
+  height: 50px;
+  line-height: 50px;
+  font-size: 1.5em;
+}
